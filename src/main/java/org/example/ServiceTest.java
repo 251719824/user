@@ -21,8 +21,8 @@ public class ServiceTest {
 
 
 
-    public static void main(String[] args) {
-
+    public  void main(String[] args) {
+        System.out.println("艺术就是派大星");
     }
     public  static  void print(){
         System.out.println("今晚打老虎");
