@@ -19,9 +19,7 @@ package org.example;
 public class ServiceTest {
 
 
-    public static void bulbbSort(){
-        System.out.println("");
-    }
+
 
     public static void main(String[] args) {
 
