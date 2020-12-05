@@ -17,9 +17,7 @@ package org.example;
  * @since 1.0.0
  */
 public class ServiceTest {
-    public static void main(String[] args) {
-        print();
-    }
+  
     public  static  void print(){
         System.out.println("今晚打老虎");
     }
