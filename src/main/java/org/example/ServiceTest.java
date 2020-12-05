@@ -17,9 +17,8 @@ package org.example;
  * @since 1.0.0
  */
 public class ServiceTest {
-    public static void main(String[] args) {
-        print();
-    }
+
+
     public static void bulbbSort(){
         System.out.println("");
     }
